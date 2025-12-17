@@ -1,4 +1,4 @@
-VeloxCon 2025
+# VeloxCon 2025
 
 ![logo](./veloxcon.jpg)
 
@@ -13,8 +13,6 @@ VeloxCon 2025
 同时，欢迎关注蚂蚁开源活动，与技术专家和一线开发者交流！
 
 --
-
-VeloxCon 2025
 
 In recent years, the open-source data processing ecosystem has moved beyond basic features to focus on performance tuning, cost savings, and execution-layer innovation. Velox is a standout project in this wave, now used in production by many leading global companies. It powers diverse workloads, from complex analytics and high-throughput writes to AI training data pipelines.
 
